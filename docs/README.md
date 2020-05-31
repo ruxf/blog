@@ -3,8 +3,8 @@ home: true
 heroImage: /logo.png
 heroText: 我的空间
 tagline: Hero
-actionText: 快速上手 →
-actionLink: /zh/guide/
+actionText: 查看文章 →
+actionLink: /blog/install-zabbix
 features:
 - title: 简洁至上
   details: 以 Markdown 为中心的项目结构，以最少的配置帮助你专注于写作。
