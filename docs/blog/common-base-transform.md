@@ -1,4 +1,4 @@
-# 编程常用进制数转换
+# JavaScript常用进制数转换
 
 ## 常见进制
 
@@ -21,7 +21,7 @@
 - `Number.prototype.toString()`方法返回指定 [`Number`](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Number) 对象的字符串表示形式。
 
   > ```js
-  > numObj.toString([radix])
+  > Number.prototype.toString([radix])
   > ```
 
 ### 二进制
@@ -171,6 +171,8 @@ console.log(decimal);
 ### 其他进制
 
 其他的进制，我们可以参照 `Number.parseInt()` 和 `Number.prototype.toString()` 的参数中的 `redix` 为相应要转换的进制数即可
+
+源代码已经发布到 [GitHub](https://github.com/hom/common-base-transform) ，可以下载和执行:-
 
 ## 更多内容
 
