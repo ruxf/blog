@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /logo.png
+heroImage: 
 heroText: 我的空间
 tagline: Hero
 actionText: 查看文章 →
